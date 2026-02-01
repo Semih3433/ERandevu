@@ -1,0 +1,16 @@
+C:\Users\SemihCan\Desktop\de\ERandevu\ERandevu.Application\bin\Debug\net8.0\ERandevu.Application.deps.json
+C:\Users\SemihCan\Desktop\de\ERandevu\ERandevu.Application\bin\Debug\net8.0\ERandevu.Application.dll
+C:\Users\SemihCan\Desktop\de\ERandevu\ERandevu.Application\bin\Debug\net8.0\ERandevu.Application.pdb
+C:\Users\SemihCan\Desktop\de\ERandevu\ERandevu.Application\bin\Debug\net8.0\ERandevu_Domain.dll
+C:\Users\SemihCan\Desktop\de\ERandevu\ERandevu.Application\bin\Debug\net8.0\ERandevu_Domain.pdb
+C:\Users\SemihCan\Desktop\de\ERandevu\ERandevu.Application\obj\Debug\net8.0\ERandevu.Application.csproj.AssemblyReference.cache
+C:\Users\SemihCan\Desktop\de\ERandevu\ERandevu.Application\obj\Debug\net8.0\ERandevu.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SemihCan\Desktop\de\ERandevu\ERandevu.Application\obj\Debug\net8.0\ERandevu.Application.AssemblyInfoInputs.cache
+C:\Users\SemihCan\Desktop\de\ERandevu\ERandevu.Application\obj\Debug\net8.0\ERandevu.Application.AssemblyInfo.cs
+C:\Users\SemihCan\Desktop\de\ERandevu\ERandevu.Application\obj\Debug\net8.0\ERandevu.Application.csproj.CoreCompileInputs.cache
+C:\Users\SemihCan\Desktop\de\ERandevu\ERandevu.Application\obj\Debug\net8.0\ERandevu.Application.sourcelink.json
+C:\Users\SemihCan\Desktop\de\ERandevu\ERandevu.Application\obj\Debug\net8.0\ERandevu.FAAEB6BF.Up2Date
+C:\Users\SemihCan\Desktop\de\ERandevu\ERandevu.Application\obj\Debug\net8.0\ERandevu.Application.dll
+C:\Users\SemihCan\Desktop\de\ERandevu\ERandevu.Application\obj\Debug\net8.0\refint\ERandevu.Application.dll
+C:\Users\SemihCan\Desktop\de\ERandevu\ERandevu.Application\obj\Debug\net8.0\ERandevu.Application.pdb
+C:\Users\SemihCan\Desktop\de\ERandevu\ERandevu.Application\obj\Debug\net8.0\ref\ERandevu.Application.dll
